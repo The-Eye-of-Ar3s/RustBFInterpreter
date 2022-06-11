@@ -1,6 +1,6 @@
 # Rust BF Interpreter
 
-A Rust based program for interpreting brainfuck.
+A Rust based program for interpreting [brainfuck](https://esolangs.org/wiki/Brainfuck).
 
 
 ## Authors
